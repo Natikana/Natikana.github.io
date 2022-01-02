@@ -66,14 +66,14 @@ header {
 } 
 
 .profile .profile_foto {
-    top: 70px;
+    top: 70px;  
     left: 120px;
     width: 200px;
     height: 200px;
     border: none;
     border-radius: 50%;
     position: absolute;
-    
+    background: url('assets/img/foto.jpg') center center/cover no-repeat;
     
 }
 @media (max-width: 768px) {
